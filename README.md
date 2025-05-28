@@ -8,6 +8,7 @@ This project brings together two complementary stages of Natural Language Proces
 
 Together, they form an AI-Powered Text Analysis Engine capable of handling raw data inputs (webpages, PDFs) and transforming them into valuable insights using modern machine learning models.
 Project Structure
+
 Part 1: Domain Data Preparation (NLP1.ipynb)
 Goal: Create a high-quality corpus from diverse and noisy text sources (COVID-related documents).
 
@@ -17,6 +18,7 @@ Key Features:
 - Text normalization, cleaning, and tokenization
 - Lemmatization and stopword removal using NLTK
 - Unified corpus creation for further NLP tasks
+- 
 Part 2: Sentiment Analysis and Topic Modeling (NLP2.ipynb)
 Goal: Analyze user sentiment on the IMDB Movie Reviews dataset using classification and topic modeling.
 
