@@ -51,14 +51,4 @@ This project demonstrates:
 - Strong grasp on both text engineering and text understanding
 - Use of interpretable ML models in real-world NLP pipelines
 - The ability to build custom datasets, not just consume pre-cleaned ones
-Folder Structure (Suggested)
-ai-text-engine/
-├── NLP1.ipynb
-├── NLP2.ipynb
-├── requirements.txt
-├── data/
-│   ├── pdfs/
-│   ├── imdb_reviews.csv
-├── output/
-│   ├── corpus.json
-│   ├── models/
+
